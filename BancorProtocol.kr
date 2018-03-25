@@ -1,0 +1,12 @@
+## Bancor Protocol
+
+스마트 계약을 통한 암호화 토큰에 대한 지속적인 유동성
+
+Eyal Hertzog, Guy Benartzi, Galia, Benartzi
+Edit and Mathematical Formulation by Omri Ross March 18, 2018
+
+
+#### 요약
+Bancor Protocol은 스마트 컨트랙 블록체인 상의 토큰에 대한 자동 가격 결정과 자율 유동성 메커니즘을 가능하게 합니다.
+이러한 스마트 토큰에는 다른 토큰의 잔액을 보유하는 네트워크에 대한 하나 이상의 커넥터가있어 스마트 토큰의 계약을 통해 직접 연결된 모든 토큰에 대해 
+구매량과 판매량의 균형을 맞추기 위해 지속적으로 다시 계산되는 가격으로 스마트 토큰을 즉시 구매하거나 청산 할 수 있습니다.
